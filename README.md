@@ -3,4 +3,5 @@ In this project I made a analatical dashbord to know the following details
 - Added a Stacked chart showing profit/loss by months
 - Added Stacked Bar Chart of explaining Profit/loss by category
 - Added stacked Bar Charts for explaing Total sales Amount by states and customers
-- Added Donut Chart explaining 
+- Added Donut Chart explaining Payment Mode and Total Sale Quantity by Category
+- Added cards for Total amount of Sale, Profit, Average order value and Sale by Quantity
