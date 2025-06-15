@@ -1,7 +1,11 @@
-This is my Power Bi Project based on sales of an E-commerce Store
-In this project I made a analatical dashbord to know the following details
-- Added a Stacked chart showing profit/loss by months
-- Added Stacked Bar Chart of explaining Profit/loss by category
-- Added stacked Bar Charts for explaing Total sales Amount by states and customers
-- Added Donut Chart explaining Payment Mode and Total Sale Quantity by Category
-- Added cards for Total amount of Sale, Profit, Average order value and Sale by Quantity
+**Sales Analytics Dashboard for E-commerce Store**
+Developed a comprehensive and interactive Power BI dashboard to analyze and monitor sales performance for an e-commerce business. The project focused on uncovering key business insights and enabling strategic decision-making through data visualization and analysis.
+**Key Contributions:**
+- Built a time-series stacked column chart to track monthly profit and loss trends, aiding in performance evaluation.
+- Designed category-level bar charts to identify high and low-performing product categories based on profit and sales metrics.
+- Created geographic and customer-based visualizations to highlight sales distribution across states and customer segments.
+- Utilized donut charts to analyze payment methods and sales quantity by category, revealing customer behavior and preferences.
+- Integrated dynamic KPI cards to display core business metrics including Total Sales, Total Profit, Average Order Value, and Sales Quantity.
+- Applied data modeling, transformation, and DAX calculations to ensure accurate and insightful reporting.
+
+Screenshot of Dashboard
