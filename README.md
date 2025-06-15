@@ -7,5 +7,4 @@ Developed a comprehensive and interactive Power BI dashboard to analyze and moni
 - Utilized donut charts to analyze payment methods and sales quantity by category, revealing customer behavior and preferences.
 - Integrated dynamic KPI cards to display core business metrics including Total Sales, Total Profit, Average Order Value, and Sales Quantity.
 - Applied data modeling, transformation, and DAX calculations to ensure accurate and insightful reporting.
-
-Screenshot of Dashboard
+Also Added Screenshots of the dashboard and model view.
